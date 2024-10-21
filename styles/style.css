@@ -212,6 +212,7 @@
   font-size: 36px;
   font-weight: normal;
   z-index: 2;
+  margin: 0;
 }
 
 .feynman__link {
